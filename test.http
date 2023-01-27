@@ -1,0 +1,9 @@
+POST http://localhost:8080/login
+###
+
+POST http://localhost:8080/logout
+###
+
+GET http://localhost:8080/validateToken
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NzQ3ODg0MTJ9.xIRfEr_eP8ud1hBZOm0Mfxk2iZKB6pnaa7CFYk8It5k
+###
